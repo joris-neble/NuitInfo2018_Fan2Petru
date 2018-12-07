@@ -10,11 +10,11 @@ Dans cette édition de la Nuit de l’Informatique, nous vous proposons de réal
 ## Les missions
 
 Lors de cette nuit de l'info nous avons choisi 5 missions :
-    ..* Securité
-    ..* Arcade
-    ..* ChatBot
-    ..* Feed the App
-    ..* Mascotte
+    + Securité
+    + Arcade
+    + ChatBot
+    - Feed the App
+    - Mascotte
 
 ## Membres de l'équipe
 

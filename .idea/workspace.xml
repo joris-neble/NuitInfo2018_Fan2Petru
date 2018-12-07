@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63d7ebe0-4f10-45fb-8dc5-e89b4634f5af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_projects.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_signup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_signup.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/grayscale.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/grayscale.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_animated.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_bordered-pulled.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_core.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_core.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_fixed-width.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_icons.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_larger.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_list.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_list.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_rotated-flipped.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_screen-reader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_shims.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_shims.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_stacked.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/_variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/_variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/brands.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/brands.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/fontawesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/fontawesome.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/regular.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/regular.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/solid.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/solid.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/less/v4-shims.less" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/less/v4-shims.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_larger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_shims.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/brands.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/fontawesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/regular.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/solid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/solid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/scss/v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/scss/v4-shims.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +63,32 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1534097023">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="197" column="48" selection-start-line="197" selection-start-column="48" selection-end-line="197" selection-end-column="48" />
+            <state relative-caret-position="528">
+              <caret line="337" column="19" lean-forward="true" selection-start-line="337" selection-start-column="19" selection-end-line="337" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -160,16 +128,16 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +153,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,17 +192,17 @@
       <updated>1544147473224</updated>
       <workItem from="1544147480517" duration="244000" />
       <workItem from="1544147765503" duration="5867000" />
+      <workItem from="1544160056164" duration="2870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6111000" />
+    <option name="totallyTimeSpent" value="8981000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12556732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,11 +217,11 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Remote Host" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,24 +234,22 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-masthead.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-masthead.jpg" />
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="337" column="19" lean-forward="true" selection-start-line="337" selection-start-column="19" selection-end-line="337" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="197" column="48" selection-start-line="197" selection-start-column="48" selection-end-line="197" selection-end-column="48" />
         </state>
       </provider>
     </entry>

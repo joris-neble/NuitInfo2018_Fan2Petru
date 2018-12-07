@@ -10,21 +10,21 @@ Dans cette édition de la Nuit de l’Informatique, nous vous proposons de réal
 ## Les missions
 
 Lors de cette nuit de l'info nous avons choisi 5 missions :
-    *Securité
-    *Arcade
-    *ChatBot
-    *Feed the App
-    *Mascotte
+    * Securité
+    * Arcade
+    * ChatBot
+    * Feed the App
+    * Mascotte
 
 ## Membres de l'équipe
 
-    *Adrien Mollet
-    *Louis Lammens
-    *Tristan Laroubine
-    *Yann Fourner
-    *Léa Arnaud
-    *Pierre Lejeune
-    *Robin Jaubert
-    *Benoît Joubert
-    *Colin 
-    *Joris Neble
+    * Adrien Mollet
+    * Louis Lammens
+    * Tristan Laroubine
+    * Yann Fourner
+    * Léa Arnaud
+    * Pierre Lejeune
+    * Robin Jaubert
+    * Benoît Joubert
+    * Colin Laugier
+    * Joris Neble
